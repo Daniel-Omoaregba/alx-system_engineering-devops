@@ -1,1 +1,1 @@
-This project focus on shell permission. It involve script
+This project focus on shell permission. It involves bash script
